@@ -1,14 +1,3 @@
-## Author: Hebron.Bekele@slu.edu
-## Approximate number of hours spent: 8 hours 
-## Help Recieved: Conceptual Advice recieved from SLU CS tutoring services
-## Overview: Created below is Backagammon Board created using control structures such as
-## for loops, modulos, and if-else statements. This graphic was created using
-## shapes from cs1graphics (polygons, circles, etc.)
-## Other comments or response program-specific questions: I was struggling with
-## the checkers pieces and not being redunant with it. When I attempted using loops,
-## only one checker would print out at a time but I still wanted to show my attempts so I
-## was redunant but utilized a loop function. 
-
 from cs1graphics import *
 
 size = int(input('Pixels per grid cell: ')) #think 500 hypothetically
